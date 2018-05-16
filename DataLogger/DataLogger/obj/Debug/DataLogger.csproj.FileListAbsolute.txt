@@ -1,0 +1,13 @@
+C:\Users\Gary Tarasoff\source\repos\DataLogger\DataLogger\bin\Debug\DataLogger.exe.config
+C:\Users\Gary Tarasoff\source\repos\DataLogger\DataLogger\bin\Debug\DataLogger.exe
+C:\Users\Gary Tarasoff\source\repos\DataLogger\DataLogger\bin\Debug\DataLogger.pdb
+C:\Users\Gary Tarasoff\source\repos\DataLogger\DataLogger\obj\Debug\DataLogger.csprojResolveAssemblyReference.cache
+C:\Users\Gary Tarasoff\source\repos\DataLogger\DataLogger\obj\Debug\DataLogger.Form1.resources
+C:\Users\Gary Tarasoff\source\repos\DataLogger\DataLogger\obj\Debug\DataLogger.Properties.Resources.resources
+C:\Users\Gary Tarasoff\source\repos\DataLogger\DataLogger\obj\Debug\DataLogger.csproj.GenerateResource.Cache
+C:\Users\Gary Tarasoff\source\repos\DataLogger\DataLogger\obj\Debug\DataLogger.csproj.CoreCompileInputs.cache
+C:\Users\Gary Tarasoff\source\repos\DataLogger\DataLogger\obj\Debug\DataLogger.exe
+C:\Users\Gary Tarasoff\source\repos\DataLogger\DataLogger\obj\Debug\DataLogger.pdb
+C:\Users\Gary Tarasoff\source\repos\DataLogger\DataLogger\obj\Debug\DataLogger.Form2.resources
+C:\Users\Gary Tarasoff\source\repos\DataLogger\DataLogger\obj\Debug\DataLogger.Form3.resources
+C:\Users\Gary Tarasoff\source\repos\DataLogger\DataLogger\obj\Debug\DataLogger.FormRadar.resources
